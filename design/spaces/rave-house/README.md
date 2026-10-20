@@ -1,6 +1,6 @@
 # Rave House
 
-Named by Astra on 2026-10-19 (she said "Raid House"; Rave House is still to confirm). Not designed yet.
+Named by Astra on 2026-10-19. Not designed yet.
 
 ## Brief (to fill in with Astra)
 
@@ -11,6 +11,7 @@ Named by Astra on 2026-10-19 (she said "Raid House"; Rave House is still to conf
 - **Must not have:**
 - **Size and how many people:**
 - **Music, lights and video:**
+- **Quest note:** what a lighter Quest (Android) version of this space would drop. The world is PC first (decision 7).
 - **References:** (in [`../../references/`](../../references/))
 - **Sketches:** (in [`../../sketches/`](../../sketches/))
 

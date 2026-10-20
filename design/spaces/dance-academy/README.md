@@ -11,6 +11,7 @@ Named by Astra on 2026-10-19. Not designed yet.
 - **Must not have:**
 - **Size and how many people:**
 - **Music, lights and video:**
+- **Quest note:** what a lighter Quest (Android) version of this space would drop. The world is PC first (decision 7).
 - **References:** (in [`../../references/`](../../references/))
 - **Sketches:** (in [`../../sketches/`](../../sketches/))
 

@@ -33,15 +33,24 @@ until Astra says so.** Decisions go in [`decision-log-20261019.md`](decision-log
 - Every piece is recorded ([PROVENANCE.md](../PROVENANCE.md)), and AI use is written down
   ([AI-USE.md](../AI-USE.md)).
 
-## Open questions for Astra ✨
+## Answered (Astra, 2026-10-19)
 
-1. "Raid House": is it the **Rave House**? The words came from voice typing, so the folder is `rave-house` for now.
-2. Which other spaces go in? You said "etc.". The website brief also names an Avatar Academy, and raves and
+- **Rave House:** "Yes, I meant rave houses." The folder is `rave-house`.
+- **PC first, Quest kept possible:** "let's just do PC only, but put a note that we might want to make ... a Quest world
+  too ... Up to you."
+  - VRChat lets one world have both: the same Unity project is uploaded once for PC and once for Android (Quest) to
+    the same world. The Quest copy can be a lighter version of each space.
+  - So the world is built for PC, and each space keeps a Quest note in its brief: what a lighter version would drop.
+    Whether to make the Quest copy is decided later.
+- **Caretaker:** "Mommy's Mommies looks after this world." The hub records follow by their own pull request.
+- **Licence:** none for now. The repo is Astra's. With no licence, anyone can read it but nobody may reuse it, so
+  all rights stay hers.
+
+## Still open for Astra ✨
+
+1. Which other spaces go in? You said "etc.". The website brief also names an Avatar Academy, and raves and
    performances.
-3. Is it PC only, or PC and Quest (Android)? The answer changes how heavy each space can be.
-4. Which pet looks after Mommy's World? Mommy's Mommies already plans the club's classes and events. The other choice
-   is a new pet that you name.
-5. Who made each piece of the club's brand art in your `mommys` folder, and may any of it be shown here as a reference?
-6. How should the world itself say that AI helped? Here's a draft line for the VRChat description: "Designed by Astra for
+2. Who made each piece of the club's brand art in your `mommys` folder, and may any of it be shown here as a reference?
+3. How should the world itself say that AI helped? Here's a draft line for the VRChat description: "Designed by Astra for
    Mommy's. Built in Unity with help from AI assistants. Who made what: github.com/findastra/mommys-world."
-7. Should this repo have a licence? None is chosen yet, the same as unity-assets-library.
+4. Do the rules in [AI-USE.md](../AI-USE.md) say what you mean?

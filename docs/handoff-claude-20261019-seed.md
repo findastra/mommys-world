@@ -26,9 +26,10 @@ put anything in the Unity file yet. Just make all of the folders and structures 
 ## Not done
 
 - No Unity project. It waits for Astra's go, and starts from VCC's World template.
-- No caretaker pet, and no hub records. Which pet looks after the world is open question 4 in the brief.
-- No club art copied. Who made each piece, and whether it may be public, is Astra's call (question 5).
-- No licence (question 7).
+- No hub records yet. Astra chose Mommy's Mommies as the caretaker (decision 8); the hub's pet records need their own
+  pull request.
+- No club art copied. Who made each piece, and whether it may be public, is Astra's call (still open).
+- No licence, on purpose (decision 9). The world is PC first, with a Quest note in each space brief (decision 7).
 - The ledger adds three fields (`made`, `ai`, `designed_by`) to Unity Unicorn's asset ledger. If Astra likes them, they
   belong in Unity Unicorn's `docs/asset-ledger-20261014.md` too.
 - Unity Unicorn's `docs/world-spawn-tool-20261018.md` still says "No real spawn yet". This was its first real use

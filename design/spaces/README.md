@@ -5,7 +5,7 @@ add.
 
 | Space | Folder | Status |
 |---|---|---|
-| Rave House | [`rave-house/`](rave-house/) | Named, not designed. Astra said "Raid House" (voice typing); still to confirm. |
+| Rave House | [`rave-house/`](rave-house/) | Named, not designed |
 | Dance Academy | [`dance-academy/`](dance-academy/) | Named, not designed |
 | More to come | | Astra said "etc." |
 
