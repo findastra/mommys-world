@@ -1,20 +1,25 @@
-# Dance Academy
+# Dance Academy (4F)
 
-Named by Astra on 2026-10-19. Not designed yet.
+Named by Astra on 2026-10-19. It is the 4th floor of the September draft (decision 10).
 
-## Brief (to fill in with Astra)
+## Decided (questionnaire, 2026-10-20)
 
-- **What happens here:**
-- **Who it's for:**
-- **How it should feel:**
-- **Must have:**
-- **Must not have:**
-- **Size and how many people:**
-- **Music, lights and video:**
-- **Quest note:** what a lighter Quest (Android) version of this space would drop. The world is PC first (decision 7).
-- **References:** (in [`../../references/`](../../references/))
-- **Sketches:** (in [`../../sketches/`](../../sketches/))
+- **Feel:** a glam neon studio with a glowing floor.
+- **Mirrors:** a full mirror wall with on/off and quality buttons.
+- **Rooms:** one big studio plus small practice rooms. Each room has its own music player.
+- **Teacher tools:**
+  - a screen for dance videos;
+  - the teacher's voice carries across the room;
+  - a countdown timer;
+  - a class schedule board;
+  - floor marks for formations.
 
-## Decisions
+## From the draft, to confirm
 
-None yet. Each one also goes in [`docs/decision-log-20261019.md`](../../../docs/decision-log-20261019.md).
+The draft lists eight disciplines: pole, aerial hoop, fan dance, flowtoys, lap dance, shuffle, hip hop and
+breakdance.
+
+## Still open
+
+- **Quest note:** what a lighter Quest (Android) version would drop. The world is PC first (decision 7).
+- **Sketches:** Astra's, in [`../../sketches/`](../../sketches/).

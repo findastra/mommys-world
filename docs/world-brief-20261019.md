@@ -46,11 +46,23 @@ until Astra says so.** Decisions go in [`decision-log-20261019.md`](decision-log
 - **Licence:** none for now. The repo is Astra's. With no licence, anyone can read it but nobody may reuse it, so
   all rights stay hers.
 
+## Answered by questionnaire (2026-10-20)
+
+All 66 answers are in [`questionnaire-answers-20261020.md`](questionnaire-answers-20261020.md), and decisions 10–19
+of the [decision log](decision-log-20261019.md) sum them up. The headline: the world is Astra's September draft,
+five floors on an island with one pole through the middle ([`design/spaces/`](../design/spaces/)).
+
+The draft itself is `Documents\ChatGPT\Mommy's\fodder\mommys-website-html-claude.html` on Astra's PC. It was made with
+Claude on 2026-09-06 and has never been on GitHub. It holds club members' avatar photos and prices, so it stays off
+GitHub until those are taken out (decision 19).
+
 ## Still open for Astra ✨
 
-1. Which other spaces go in? You said "etc.". The website brief also names an Avatar Academy, and raves and
-   performances.
-2. Who made each piece of the club's brand art in your `mommys` folder, and may any of it be shown here as a reference?
-3. How should the world itself say that AI helped? Here's a draft line for the VRChat description: "Designed by Astra for
-   Mommy's. Built in Unity with help from AI assistants. Who made what: github.com/findastra/mommys-world."
-4. Do the rules in [AI-USE.md](../AI-USE.md) say what you mean?
+1. What is the pole? You answered "something else".
+2. How should the club's name and logo show in the world? You answered "something else".
+3. When should the club website start? You answered "something else".
+4. The sea is "at night", but the sky follows real time. Is the island always at night, or does it see daylight?
+5. A huge venue, as many people as VRChat allows, every effect and lots of sparkle will fight for frame rate.
+   - The personal settings menu and the effect switches help with this.
+   - We'll measure on the first space.
+6. Where do the stage, backstage, lounge, photo studio and info hall go?

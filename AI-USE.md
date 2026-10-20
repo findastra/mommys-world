@@ -1,7 +1,7 @@
 # How AI is used in Mommy's World
 
-**Draft until Astra approves it.** Written by Claude Opus 5.5 (`claude-opus-5-5`) on 2026-10-19, from what Astra
-said that day: "I want to be ethical about it. And I want to be transparent about my use of AI. I want to preserve
+**Approved by Astra on 2026-10-20** (decision 18: "Keep them as they are"). Written by Claude Opus 5.5
+(`claude-opus-5-5`) on 2026-10-19, from what Astra said that day: "I want to be ethical about it. And I want to be transparent about my use of AI. I want to preserve
 creativity, authenticity, and provenance."
 
 Astra designs Mommy's World, and AI assistants help build it. This page says plainly what they do, what they don't
@@ -32,7 +32,8 @@ do, and how you can check.
 5. **People's own work and likeness need their yes.** Club members' dances, music, photos, avatars and voices go in
    only with their permission, credited by the name they choose. No AI copies anyone's face, voice or avatar.
 6. **The world says it too.** The VRChat description and the in-world credits say that AI assistants helped, and
-   link here.
+   link here. The line for the description: "Designed by Astra for Mommy's. Built in Unity with help from AI
+   assistants. Who made what: github.com/findastra/mommys-world."
 
 ## Check it yourself
 
