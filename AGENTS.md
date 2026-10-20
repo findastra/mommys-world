@@ -28,4 +28,4 @@ changes this repository.
 - Keep these out of Git: paid assets, receipts, account details, logs, and club members' private information.
 - New descriptive files get lowercase names with Astra's America/Denver date before the extension
   (`world-brief-20261019.md`). Standard files keep their usual names.
-- Leave a dated handoff in `docs/` (`handoff-<assistant>-<date>-<topic>.md`).
+- Leave a dated handoff in `docs/` (`handoff-<assistant>-<topic>-<date>.md`, date last, per Astra's naming rule).
