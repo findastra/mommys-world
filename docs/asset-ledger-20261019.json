@@ -1,0 +1,29 @@
+{
+  "tool": "pet-program-5-v1.0-asset-ledger-v1.0",
+  "world": "mommys-world",
+  "about": "One row for every asset in Mommy's World, written before the asset goes into the Unity project (no row, no ship). Fields: Unity Unicorn's asset ledger (findastra/unity-unicorn docs/asset-ledger-20261014.md) plus made, ai and designed_by (PROVENANCE.md). Proof such as receipts and permissions stays on the PC, never in Git.",
+  "made_values": {
+    "handmade": "Made by a person: Astra, or a club member who said yes.",
+    "ai-assisted": "A person directed it and an AI did part of the work.",
+    "ai-generated": "An AI made it and Astra approved it; only when Astra asks, each time.",
+    "third-party": "Someone else's work, used under its licence and credited."
+  },
+  "row_template": {
+    "id": "mommys-world-<asset>",
+    "name": null,
+    "kind": null,
+    "creator": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "where_used": ["mommys-world"],
+    "in_repo": null,
+    "public_ok": null,
+    "status": null,
+    "checked": null,
+    "made": null,
+    "ai": null,
+    "designed_by": null
+  },
+  "rows": []
+}
