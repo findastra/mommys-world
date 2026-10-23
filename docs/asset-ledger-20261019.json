@@ -16,7 +16,9 @@
     "source": null,
     "license": null,
     "attribution": null,
-    "where_used": ["mommys-world"],
+    "where_used": [
+      "mommys-world"
+    ],
     "in_repo": null,
     "public_ok": null,
     "status": null,
@@ -25,5 +27,63 @@
     "ai": null,
     "designed_by": null
   },
-  "rows": []
+  "rows": [
+    {
+      "id": "mommys-world-vcc-world-template",
+      "name": "VCC World template 1.5.0",
+      "kind": "project-template",
+      "creator": "VRChat",
+      "source": "Installed official VRChat Creator Companion World template",
+      "license": "Upstream terms retained; review before publication",
+      "attribution": "VRChat",
+      "where_used": [
+        "mommys-world"
+      ],
+      "in_repo": true,
+      "public_ok": null,
+      "status": "pending-review",
+      "checked": "2026-10-22",
+      "made": "third-party",
+      "ai": "Codex GPT-6 initialized through Unity Unicorn; no world content copied",
+      "designed_by": "Astra"
+    },
+    {
+      "id": "mommys-world-vrchat-sdk",
+      "name": "VRChat Base and Worlds SDK 3.10.5",
+      "kind": "sdk",
+      "creator": "VRChat",
+      "source": "Installed Creator Companion package cache; embedded packages ignored by Git",
+      "license": "Upstream terms retained; review before publication",
+      "attribution": "VRChat",
+      "where_used": [
+        "mommys-world"
+      ],
+      "in_repo": false,
+      "public_ok": null,
+      "status": "pending-review",
+      "checked": "2026-10-22",
+      "made": "third-party",
+      "ai": "Codex GPT-6 initialized through Unity Unicorn; no world content copied",
+      "designed_by": "Astra"
+    },
+    {
+      "id": "mommys-world-agent-queue",
+      "name": "Mommy’s World editor agent queue",
+      "kind": "editor-script",
+      "creator": "Astra with Claude Opus 5.5 and Codex GPT-6",
+      "source": "Unity Unicorn world-spawn-tool PR24, commit 0c79ad4",
+      "license": "Upstream terms retained; review before publication",
+      "attribution": "Astra with Claude Opus 5.5 and Codex GPT-6",
+      "where_used": [
+        "mommys-world"
+      ],
+      "in_repo": true,
+      "public_ok": null,
+      "status": "pending-review",
+      "checked": "2026-10-22",
+      "made": "ai-assisted",
+      "ai": "Codex GPT-6 initialized through Unity Unicorn; no world content copied",
+      "designed_by": "Astra"
+    }
+  ]
 }
