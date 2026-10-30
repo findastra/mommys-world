@@ -34,3 +34,6 @@ for every world. The page is the up-to-date list.
   built from scratch, so we use them only if Astra names one.
 - The world panels for Piranesi House, Astra's Infinite Pole and Liminal Doors hold tools made for those worlds. We
   take one only if Astra names it, as with any other piece.
+
+## World-specific structural tools, 2026-10-30
+The original Blender mesh generator is Tools/Blender/mami-structure-assets-20261030.py. The world-specific coliseum builder source is Tools/Unity/mami-coliseum-builder-20261030.cs, mirrored in Assets/MommysWorld/Editor for Unity execution. Last successful geometry validation:2026-10-30T18:12:17Z; ClientSim check:18:12:52Z. These are local world tools; central Unity Unicorn catalog registration is still pending, not claimed complete.
