@@ -1,4 +1,4 @@
-status: taken by Codex / this chat
+status: open (ready for review)
 for: any
 from: Codex (GPT-6), 2026-10-22
 needs: AGENTS.md, AI-USE.md, PROVENANCE.md, seed handoff
@@ -55,3 +55,7 @@ Scheduled owner-authorized resumption received. No Unity process was running; op
 
 ### Corrected coliseum built and checked — 2026-10-30
 State: READY_FOR_REVIEW. Implementation writes released for this structural revision. Five-level straight-sided open coliseum built in its separate scene with36 smaller core landings, foundation piers, transparent stairs, detached dock, caves and ocean. Geometry:0 errors/1362 support samples;1428850 triangles/422 renderers. ClientSim arrival and Hell floor both pass. Original premature respawn traced to the prior scene's persisted-100m cutoff; corrected scene saves/runtime reports-114m. New actual renders in Review/coliseum-seed and this chat's outputs. Detailed limitations and rebuild instructions in docs/coliseum-structure-seed-20261030.md. Root visually inspected exterior, rooftop and airstrip renders; independent final review and Astra's visual review remain pending. No full VRChat-client test, upload or main merge. One-time noon automation will be deleted after this resumption.
+### Draft delivery and continuation — 2026-10-30
+Code and scene revision: b5def482ff87ac69a1a2905a799538083ad58e90. Pushed to codex/structural-seed-20261030. Draft PR: https://github.com/findastra/mommys-world/pull/3 (open, not merged; GitHub reports clean mergeability). Subsequent metadata-only commit records this receipt; no scene change after the passing checks.
+State: READY_FOR_REVIEW; implementation writes released. Independent final reviewer unassigned; Astra visual review pending. Review the actual Unity renders and original sketches before further detailing. The source-only/private-data scan passed; prior untracked project/bootstrap and superseded-scene files were left untouched. Embedded SDK and ClientSim private data were not published.
+The one-time noon automation was deleted after its authorized resumption. Unity remains running with the corrected scene, outside Play mode. The Open Structural Review menu ran, but native-window visibility was not confirmed; the actual-render gallery is visibly verified in this chat's browser. Local preview server8143 remains running for that gallery. Continuation: refine scanned marble/terrain and exact airstrip structure after the owner reviews this seed; resolve any review findings, then perform full client/headset/performance checks before publication. No main merge or VRChat upload.
