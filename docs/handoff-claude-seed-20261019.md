@@ -79,6 +79,19 @@ archived before it made anything. Pick it up only if Astra asks.
 The seed is merged with Astra's OK and the open items are answered. Then the lobby design starts from her sketch.
 The Unity project waits for her go, from VCC's World template, built with Unity Unicorn's tools.
 
+## Kept for the world (2026-10-29)
+
+Astra, 2026-10-29: "keep those files we are about to build Mommy's world". The world is no longer paused: she is
+about to build it. Keep these, and never delete them:
+
+| What | Where |
+| --- | --- |
+| Three plant collages (A, B, C) | findastra/moodglass `docs/images/moodglass-plants-collage-{a,b,c}-20261029.jpg` (moodglass#1, draft), and findastra/findastra.github.io `art/projects/moodglass-plants-collage-{a,b,c}-20261029.webp` (#27) |
+| The plant pictures they come from | `%USERPROFILE%\Downloads\moodglass\plants` on her desktop PC: the pictures Moodglass posted in her Discord plants channel |
+
+Where those pictures first came from isn't recorded yet, so check before any of them goes into the world itself
+(see AI-USE.md and PROVENANCE.md). No README work for this repo until the world is built.
+
 ## Return
 
 Record the pickup here: who, which commit was read, and the next action. Astra's new answers go into the decision
