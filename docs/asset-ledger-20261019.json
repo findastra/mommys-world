@@ -84,6 +84,120 @@
       "made": "ai-assisted",
       "ai": "Codex GPT-6 initialized through Unity Unicorn; no world content copied",
       "designed_by": "Astra"
+    },
+    {
+      "id": "mommys-world-first-blockout",
+      "name": "Sketch-based first blockout",
+      "kind": "procedural scene meshes materials and editor builder",
+      "creator": "Astra with Codex GPT-6",
+      "source": "Original geometry from supplied concept sketches; scale provisional",
+      "license": "Astra all rights reserved",
+      "attribution": "Designed by Astra",
+      "where_used": [
+        "mommys-world"
+      ],
+      "in_repo": true,
+      "public_ok": null,
+      "status": "draft-review",
+      "checked": "2026-10-22",
+      "made": "ai-assisted",
+      "ai": "Codex GPT-6 implemented procedural Unity blockout",
+      "designed_by": "Astra"
+    },
+    {
+      "id": "mommys-world-structure-seed-20261030",
+      "name": "Finite structural scene, stair galleries, detached airstrip, dock, ocean",
+      "kind": "scene and procedural geometry",
+      "creator": "Astra with Codex (GPT-6)",
+      "source": "Original implementation directed by Astra; Delfino Airstrip used as a visual layout reference",
+      "license": "Astra all rights reserved; game reference is not a licensed production asset",
+      "attribution": "Designed by Astra",
+      "where_used": [
+        "mommys-world"
+      ],
+      "in_repo": true,
+      "public_ok": null,
+      "status": "draft-review",
+      "checked": "2026-10-30",
+      "made": "ai-assisted",
+      "ai": "Codex (GPT-6) code and Blender geometry, directed by Astra",
+      "designed_by": "Astra"
+    },
+    {
+      "id": "mommys-world-carved-marble-meshes-20261030",
+      "name": "Original eroded columns and open cave meshes",
+      "kind": "mesh",
+      "creator": "Astra with Codex (GPT-6)",
+      "source": "Tools/Blender/mami-structure-assets-20261030.py; Blender 4.5.9",
+      "license": "Astra all rights reserved; game reference is not a licensed production asset",
+      "attribution": "Designed by Astra",
+      "where_used": [
+        "mommys-world"
+      ],
+      "in_repo": true,
+      "public_ok": null,
+      "status": "draft-review",
+      "checked": "2026-10-30",
+      "made": "ai-assisted",
+      "ai": "Codex (GPT-6) code and Blender geometry, directed by Astra",
+      "designed_by": "Astra"
+    },
+    {
+      "id": "mommys-world-structure-shaders-20261030",
+      "name": "Carved marble and ocean surface shaders",
+      "kind": "shader",
+      "creator": "Astra with Codex (GPT-6)",
+      "source": "Original shaders authored for this structure study",
+      "license": "Astra all rights reserved; game reference is not a licensed production asset",
+      "attribution": "Designed by Astra",
+      "where_used": [
+        "mommys-world"
+      ],
+      "in_repo": true,
+      "public_ok": null,
+      "status": "draft-review",
+      "checked": "2026-10-30",
+      "made": "ai-assisted",
+      "ai": "Codex (GPT-6) code and Blender geometry, directed by Astra",
+      "designed_by": "Astra"
+    },
+    {
+      "id": "mommys-world-structure-builder-20261030",
+      "name": "Mami structural scene builder and validation",
+      "kind": "editor-script",
+      "creator": "Astra with Codex (GPT-6)",
+      "source": "Assets/MommysWorld/Editor/mami-structure-seed-20261030.cs",
+      "license": "Astra all rights reserved; game reference is not a licensed production asset",
+      "attribution": "Designed by Astra",
+      "where_used": [
+        "mommys-world"
+      ],
+      "in_repo": true,
+      "public_ok": null,
+      "status": "draft-review",
+      "checked": "2026-10-30",
+      "made": "ai-assisted",
+      "ai": "Codex (GPT-6) code and Blender geometry, directed by Astra",
+      "designed_by": "Astra"
+    },
+    {
+      "id": "mommys-world-open-coliseum-20261030",
+      "name": "Five-level open coliseum and extended stair/core",
+      "kind": "scene and procedural geometry",
+      "creator": "Astra with Codex (GPT-6)",
+      "source": "Original sketch groups1,2,12 and questionnaire; owner scale choice 2026-10-30",
+      "license": "Astra all rights reserved",
+      "attribution": "Designed by Astra",
+      "where_used": [
+        "mommys-world"
+      ],
+      "in_repo": true,
+      "public_ok": null,
+      "status": "draft-review",
+      "checked": "2026-10-30",
+      "made": "ai-assisted",
+      "ai": "Codex (GPT-6) implementation directed by Astra",
+      "designed_by": "Astra"
     }
   ]
 }
